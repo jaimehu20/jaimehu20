@@ -5,7 +5,7 @@ Soy desarrollador junior en pleno crecimiento, ansioso por afrontar nuevos retos
 
 🔭 **Actualmente trabajando en:**  <br> Hotel Miranda, una web sobre un hotel ficticio.<br><br>👯 **Buscando colaborar en:**  <br> Proyectos Fullstack, Frontend, Backend <br><br>🌱 **Estoy aprendiendo:**  <br>   Mysql, PHP, Laravel.<br><br>⚡ **Fun fact:**  <br>  Me encanta jugar videojuegos, ver películas y pasar tiempo con mi familia y amigos.
 
-⚡Todos mis proyectos en: https://main--wondrous-boba-0ab8eb.netlify.app/ ⚡
+⚡Todos mis proyectos en: https://jaimehurtado-porfolio.netlify.app/ ⚡
 
 
 ## 🌐 Socials:
