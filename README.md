@@ -3,7 +3,7 @@
 
 Soy desarrollador junior en pleno crecimiento, ansioso por afrontar nuevos retos y poder aportar mis conocimientos en futuros proyectos. Apasionado de las nuevas tecnologías, disfruto aprendiendo y desarrollando proyectos tanto de forma autónoma como en equipo. 
 
-🔭 **Actualmente trabajando en:**  <br> Hotel Miranda, una web sobre un hotel ficticio.<br><br>👯 **Buscando colaborar en:**  <br> Proyectos Fullstack, Frontend, Backend <br><br>🌱 **Estoy aprendiendo:**  <br>   Mysql, PHP, Laravel.<br><br>⚡ **Fun fact:**  <br>  Me encanta jugar videojuegos, ver películas y pasar tiempo con mi familia y amigos.
+🔭 **Actualmente trabajando en:**  <br> Weatherly, una página sobre un periódico online ficticio.<br><br>👯 **Buscando colaborar en:**  <br> Proyectos Fullstack, Frontend, Backend <br><br>🌱 **Estoy aprendiendo:**  <br>   Mysql, PHP, Laravel.<br><br>⚡ **Fun fact:**  <br>  Me encanta jugar videojuegos, ver películas y pasar tiempo con mi familia y amigos.
 
 ⚡Todos mis proyectos en: https://jaimehurtado-porfolio.netlify.app/ ⚡
 
