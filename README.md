@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil+de+Github!;Mi+nombre+es+Jaime+Hurtado;Soy+un+programador+Junior+FullStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil+de+Github!;Mi+nombre+es+Jaime;Soy+un+programador+Junior+FullStack)](https://git.io/typing-svg)
 # 💫 Sobre mi:
 
 Soy desarrollador junior en pleno crecimiento, ansioso por afrontar nuevos retos y poder aportar mis conocimientos en futuros proyectos. Apasionado de las nuevas tecnologías, disfruto aprendiendo y desarrollando proyectos tanto de forma autónoma como en equipo. 
